@@ -6,6 +6,7 @@
 </div>
 
 ## Features
+There are accesible from the VS Code Command Palette 
 
 - `ngrok: start`: Start an HTTP tunnel pointing to a port of your choice from the command palette
 
